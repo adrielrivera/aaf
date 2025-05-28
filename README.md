@@ -1,10 +1,10 @@
-# Adriel and Friends
+# adriel and friends (aaf)
 
-## Define Language Scope
+## Language Scope
 ### Decide **Minimimum Viable Language** (MVL)
 #### 1. Core Syntax
 1.1 Variables and Types
-1.2 xControl Flow
+1.2 Control Flow
 1.3 Functions
 #### 2. Tensor types and basic parallel operations
 2.1 
